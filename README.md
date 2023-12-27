@@ -6,17 +6,10 @@ GrepIt is a dynamic and interactive quiz hosting platform that brings people tog
 
 Here's the links to the frontend and the backend repos that were hosted on OpenCode '23, one of the largest open-source competitions held in North-India!
 
-Frontend:
+Frontend: [https://github.com/opencodeiiita/GrepIt-Frontend](https://github.com/opencodeiiita/GrepIt-Frontend)
 
-```
-https://github.com/opencodeiiita/GrepIt-Backend
-```
+Backend: [https://github.com/opencodeiiita/GrepIt-Backend](https://github.com/opencodeiiita/GrepIt-Backend)
 
-Backend:
-
-```
-https://github.com/opencodeiiita/GrepIt-Frontend
-```
 
 ## Features
 
